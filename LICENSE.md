@@ -1,4 +1,4 @@
-# 
+# Lightweight Pixelle-Video plugins. Featuring community-support and api-integration — optimized for maximum performance and efficiency.
 
 
 
